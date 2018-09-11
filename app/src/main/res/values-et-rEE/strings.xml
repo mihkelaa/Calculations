@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Arvutused</string>
+    <string name="enternum">Sisestage number</string>
+    <string name="unitprice">Ühiku hind</string>
+    <string name="numofunits">Ühikute kogus</string>
+    <string name="clear">Kustuta</string>
+</resources>
